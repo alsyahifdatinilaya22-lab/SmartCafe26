@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="SmartCafe26.Api/SmartCafe26.Api.csproj" />
+  <Project Path="SmartCafe26.Desktop/SmartCafe26.Desktop.csproj" />
+</Solution>

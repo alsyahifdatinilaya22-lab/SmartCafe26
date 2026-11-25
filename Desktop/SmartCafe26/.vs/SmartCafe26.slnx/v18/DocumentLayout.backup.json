@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\SmartCafe26\\Desktop\\SmartCafe26\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{564700C4-6028-4D64-A428-0D8D3FADB8D8}|SmartCafe26.Desktop\\SmartCafe26.Desktop.csproj|c:\\smartcafe26\\desktop\\smartcafe26\\smartcafe26.desktop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{564700C4-6028-4D64-A428-0D8D3FADB8D8}|SmartCafe26.Desktop\\SmartCafe26.Desktop.csproj|solutionrelative:smartcafe26.desktop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564700C4-6028-4D64-A428-0D8D3FADB8D8}|SmartCafe26.Desktop\\SmartCafe26.Desktop.csproj|c:\\smartcafe26\\desktop\\smartcafe26\\smartcafe26.desktop\\logic\\caferepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{564700C4-6028-4D64-A428-0D8D3FADB8D8}|SmartCafe26.Desktop\\SmartCafe26.Desktop.csproj|solutionrelative:smartcafe26.desktop\\logic\\caferepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{246AA7E3-F95B-419E-9797-75B5BA637576}|SmartCafe26.Api\\SmartCafe26.Api.csproj|c:\\smartcafe26\\desktop\\smartcafe26\\smartcafe26.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{246AA7E3-F95B-419E-9797-75B5BA637576}|SmartCafe26.Api\\SmartCafe26.Api.csproj|solutionrelative:smartcafe26.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564700C4-6028-4D64-A428-0D8D3FADB8D8}|SmartCafe26.Desktop\\SmartCafe26.Desktop.csproj|c:\\smartcafe26\\desktop\\smartcafe26\\smartcafe26.desktop\\smartcafe26.desktop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{564700C4-6028-4D64-A428-0D8D3FADB8D8}|SmartCafe26.Desktop\\SmartCafe26.Desktop.csproj|solutionrelative:smartcafe26.desktop\\smartcafe26.desktop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564700C4-6028-4D64-A428-0D8D3FADB8D8}|SmartCafe26.Desktop\\SmartCafe26.Desktop.csproj|c:\\smartcafe26\\desktop\\smartcafe26\\smartcafe26.desktop\\data\\dbconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{564700C4-6028-4D64-A428-0D8D3FADB8D8}|SmartCafe26.Desktop\\SmartCafe26.Desktop.csproj|solutionrelative:smartcafe26.desktop\\data\\dbconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564700C4-6028-4D64-A428-0D8D3FADB8D8}|SmartCafe26.Desktop\\SmartCafe26.Desktop.csproj|c:\\smartcafe26\\desktop\\smartcafe26\\smartcafe26.desktop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{564700C4-6028-4D64-A428-0D8D3FADB8D8}|SmartCafe26.Desktop\\SmartCafe26.Desktop.csproj|solutionrelative:smartcafe26.desktop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CafeRepository.cs",
+              "DocumentMoniker": "C:\\SmartCafe26\\Desktop\\SmartCafe26\\SmartCafe26.Desktop\\Logic\\CafeRepository.cs",
+              "RelativeDocumentMoniker": "SmartCafe26.Desktop\\Logic\\CafeRepository.cs",
+              "ToolTip": "C:\\SmartCafe26\\Desktop\\SmartCafe26\\SmartCafe26.Desktop\\Logic\\CafeRepository.cs",
+              "RelativeToolTip": "SmartCafe26.Desktop\\Logic\\CafeRepository.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAgwI4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T09:58:51.357Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SmartCafe26.Desktop",
+              "DocumentMoniker": "C:\\SmartCafe26\\Desktop\\SmartCafe26\\SmartCafe26.Desktop\\SmartCafe26.Desktop.csproj",
+              "RelativeDocumentMoniker": "SmartCafe26.Desktop\\SmartCafe26.Desktop.csproj",
+              "ToolTip": "C:\\SmartCafe26\\Desktop\\SmartCafe26\\SmartCafe26.Desktop\\SmartCafe26.Desktop.csproj",
+              "RelativeToolTip": "SmartCafe26.Desktop\\SmartCafe26.Desktop.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-25T09:58:03.371Z",
+              "EditorCaption": "",
+              "OwnerCaption": "SmartCafe26.Desktop"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\SmartCafe26\\Desktop\\SmartCafe26\\SmartCafe26.Desktop\\Form1.cs",
+              "RelativeDocumentMoniker": "SmartCafe26.Desktop\\Form1.cs",
+              "ToolTip": "C:\\SmartCafe26\\Desktop\\SmartCafe26\\SmartCafe26.Desktop\\Form1.cs [Design]",
+              "RelativeToolTip": "SmartCafe26.Desktop\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T09:55:50.293Z",
+              "EditorCaption": " [Design]",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SmartCafe26\\Desktop\\SmartCafe26\\SmartCafe26.Api\\Program.cs",
+              "RelativeDocumentMoniker": "SmartCafe26.Api\\Program.cs",
+              "ToolTip": "C:\\SmartCafe26\\Desktop\\SmartCafe26\\SmartCafe26.Api\\Program.cs",
+              "RelativeToolTip": "SmartCafe26.Api\\Program.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAQwGkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T09:54:33.779Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\SmartCafe26\\Desktop\\SmartCafe26\\SmartCafe26.Desktop\\Form1.cs",
+              "RelativeDocumentMoniker": "SmartCafe26.Desktop\\Form1.cs",
+              "ToolTip": "C:\\SmartCafe26\\Desktop\\SmartCafe26\\SmartCafe26.Desktop\\Form1.cs",
+              "RelativeToolTip": "SmartCafe26.Desktop\\Form1.cs",
+              "ViewState": "AgIAAMYCAAAAAAAAAAAgwNsCAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T09:59:33.081Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DbConnectionFactory.cs",
+              "DocumentMoniker": "C:\\SmartCafe26\\Desktop\\SmartCafe26\\SmartCafe26.Desktop\\Data\\DbConnectionFactory.cs",
+              "RelativeDocumentMoniker": "SmartCafe26.Desktop\\Data\\DbConnectionFactory.cs",
+              "ToolTip": "C:\\SmartCafe26\\Desktop\\SmartCafe26\\SmartCafe26.Desktop\\Data\\DbConnectionFactory.cs",
+              "RelativeToolTip": "SmartCafe26.Desktop\\Data\\DbConnectionFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T09:57:24.134Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

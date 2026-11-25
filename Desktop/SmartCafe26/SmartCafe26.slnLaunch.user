@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "SmartCafe26.Api\\SmartCafe26.Api.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "SmartCafe26.Desktop\\SmartCafe26.Desktop.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
